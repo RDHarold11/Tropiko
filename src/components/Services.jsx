@@ -6,7 +6,7 @@ const Services = () => (
         <div className='text-center'>
             <h4 className='font-bold text-4xl'>Our Services</h4>
             <p className='mt-2'>There are many variations of passages of Lorem Ipsum available, but the majority have</p>   
-        <div className='grid md:grid-cols-3 max-w-[1145px] mx-auto mt-20 gap-7'>
+        <div className='grid md:grid-cols-3 max-w-[1145px] mx-auto mt-20 gap-7 px-4'>
             <Service
             src="https://plantillashtmlgratis.com/wp-content/themes/helium-child/vista_previa/page279/tropiko/images/card-item-1.png"
             alt="Orange img"

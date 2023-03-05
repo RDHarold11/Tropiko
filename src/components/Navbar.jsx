@@ -30,7 +30,7 @@ const Navbar = () => {
                
             </div>
 
-            <div className={navbar ? 'fixed top-0 left-0 w-[60%] border-r h-full bg-black ease-in-out duration-700 text-white px-5 py-3 flex flex-col gap-4' : 'fixed left-[-100%]'}>
+            <div className={navbar ? 'fixed top-0 left-0 w-[67%] border-r h-full bg-black ease-in-out duration-700 text-white px-5 py-3 flex flex-col gap-4' : 'fixed left-[-100%]'}>
             <div className='py-5 px-3'>
                 <img className='pr-2' src="https://plantillashtmlgratis.com/wp-content/themes/helium-child/vista_previa/page279/tropiko/images/logo.png" alt="" />
                 <span className='font-extrabold text-xl'>TROPIKO</span>

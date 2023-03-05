@@ -8,7 +8,7 @@ const Fruits = () => {
             <h4 className='font-bold text-4xl'>Fresh Fruits</h4>
             <p className='mt-2'>There are many variations of passages of Lorem Ipsum available, but the majority have</p>   
         </div>
-        <div className='px-4 max-w-[1145px] mx-auto '>
+        <div className='px-4 max-w-[1145px] mx-auto'>
             <Fruit
             title="Orange"
             alt="Orange img"
